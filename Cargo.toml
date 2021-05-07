@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "calc",
+  "helper/builder",
+  "helper/macros",
+  "routines/compute",
+]
